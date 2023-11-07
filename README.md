@@ -21,5 +21,4 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript".
 [link vercel](https://tp-react-rho.vercel.app/)
 
 ## Realizado por
-[Ezequiel Tenerini](https://github.com/Teneze)![image](https://github.com/Teneze/Tp-React/assets/143614993/5bc0964c-29b4-410f-af17-169f064167c9)
-
+[Ezequiel Tenerini](https://github.com/Teneze)
