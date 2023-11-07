@@ -6,8 +6,8 @@ const CarouselHome = () => {
         <Carousel>
       <Carousel.Item interval={3000}>
         <img 
-            className='d-block w-110'
-            style={{maxHeight: "500px", objectFit: 'cover'}}
+            className='d-block w-100'
+            style={{maxHeight: "600px", objectFit: 'cover'}}
             src='src/assets/images/murales-maradona-la-plata.jpg'
             alt='Mural de Graffiti de Maradona'
         />
@@ -18,7 +18,7 @@ const CarouselHome = () => {
       <Carousel.Item interval={3000}>
       <img 
             className='d-block w-100'
-            style={{maxHeight: "500px", objectFit: 'cover'}}
+            style={{maxHeight: "600px", objectFit: 'cover'}}
             src='src/assets/images/roman_mural_ok_0.jpg'
             alt='Mural de Graffiti de Riquelme'
         />
@@ -30,7 +30,7 @@ const CarouselHome = () => {
       <Carousel.Item interval={3000}>
       <img 
             className='d-block w-100'
-            style={{maxHeight: "500px", objectFit: 'cover'}}
+            style={{maxHeight: "600px", objectFit: 'cover'}}
             src='src/assets/images/Nuevo-mural-de-Lionel-Messi-en-Catamarca.jpg'
             alt='Mural de Graffiti de Messi'
         />
