@@ -1,27 +1,25 @@
-# React + TypeScript + Vite
+# Trabajo Practico - TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript".
 
-Currently, two official plugins are available:
+## Ejecución del Proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1- En la pantalla principal del repositorio seleccionar "<> Code".
 
-## Expanding the ESLint configuration
+2- Seleccionar la ultima opción "Download ZIP".
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+3- Se descargara un archivo comprimido del repositorio.
 
-- Configure the top-level `parserOptions` property like this:
+4- Descomprima el archivo.
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+5- Ir a la ruta de instalación del proyecto.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+6- Abrir cmd desde la ruta anteriormente mencionada.
+
+8- Ejecutar el comando `npm run dev` el cual permite compilar el codigo TypeScript y pasarlo a JavaScript.
+
+[link vercel](https://tp-react-rho.vercel.app/)
+
+## Realizado por
+[Ezequiel Tenerini](https://github.com/Teneze)![image](https://github.com/Teneze/Tp-React/assets/143614993/5bc0964c-29b4-410f-af17-169f064167c9)
+
