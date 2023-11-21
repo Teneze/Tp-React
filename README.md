@@ -16,6 +16,8 @@ Este es el repositorio de la entrega del Trabajo Practico sobre "TypeScript".
 
 6- Abrir cmd desde la ruta anteriormente mencionada.
 
+7- Ejecutar el comando `npm install`
+
 8- Ejecutar el comando `npm run dev` el cual permite compilar el codigo TypeScript y pasarlo a JavaScript.
 
 [link vercel](https://tp-react-rho.vercel.app/)
