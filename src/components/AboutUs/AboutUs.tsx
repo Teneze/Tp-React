@@ -15,7 +15,7 @@ const AboutUs = () => {
             <div className="row">
               <div className="col-md-4">
                 <div className="card mb-3">
-                <img src="src/assets/images/colo.webp" className="card-img-top" alt="Feature 1" style={{ maxWidth: '100%', height: '400px' }} />
+                <img src="/images/colo.webp" className="card-img-top" alt="Feature 1" style={{ maxWidth: '100%', height: '400px' }} />
                   <div className="card-body">
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                   </div>
@@ -23,7 +23,7 @@ const AboutUs = () => {
               </div>
               <div className="col-md-4">
                 <div className="card mb-3">
-                <img src="src/assets/images/pipa.jpg" className="card-img-top" alt="Feature 2" style={{ maxWidth: '100%', height: '400px' }} />
+                <img src="/images/pipa.jpg" className="card-img-top" alt="Feature 2" style={{ maxWidth: '100%', height: '400px' }} />
                   <div className="card-body">
                     <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
                   </div>
@@ -31,7 +31,7 @@ const AboutUs = () => {
               </div>
               <div className="col-md-4">
                 <div className="card">
-                <img src="src/assets/images/diegoboca.jpeg" className="card-img-top" alt="Feature 3" style={{ maxWidth: '100%', height: '400px' }} />
+                <img src="/images/diegoboca.jpeg" className="card-img-top" alt="Feature 3" style={{ maxWidth: '100%', height: '400px' }} />
                   <div className="card-body">
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                   </div>
